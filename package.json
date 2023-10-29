@@ -2,7 +2,7 @@
   "name": "project01",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://trangiang2810.github.io/Web-sales/",
+  "homepage": "https://hung22k.github.io/web-sales"
   "dependencies": {
     "@headlessui/react": "^1.7.8",
     "@reduxjs/toolkit": "^1.9.2",
